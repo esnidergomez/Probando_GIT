@@ -1,1 +1,3 @@
-hola estoy usando GIT-BASH
+hola estoy usando GIT-BASH 
+
+Soy nueva linea pero sere borrada pronto
